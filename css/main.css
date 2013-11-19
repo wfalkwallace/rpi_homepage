@@ -1,18 +1,19 @@
+.table tbody>tr>td {
+    border-top: none;
+}
 
+body {
+	background-image: url('../img/brushed.png');
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
+footer {
+	position:fixed;
+	bottom:0;
+	left:10%;
+	width:80%;
+	height:4em;
+	text-align: center;
+}
 
 
 
